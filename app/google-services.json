@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "648630272379",
+    "firebase_url": "https://chatsevn.firebaseio.com",
+    "project_id": "chatsevn",
+    "storage_bucket": "chatsevn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648630272379:android:64a45d82e3e65121",
+        "android_client_info": {
+          "package_name": "com.dev.ducpaph.chatsevns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648630272379-fe58pdprc9j06dujbc440gj6th8dj4lo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.ducpaph.chatsevns",
+            "certificate_hash": "35931d56255ff25eeeffbeb600ed51ece53c2e09"
+          }
+        },
+        {
+          "client_id": "648630272379-a7g0254hiq9aqa3d2d0lpuavbbd2ra96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmUPd3jX6P8wI3SgRqC3OGqF0Sol0kRIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648630272379-a7g0254hiq9aqa3d2d0lpuavbbd2ra96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
